@@ -1,10 +1,15 @@
 # Disco Ball
 # Config
-• Spin Speed: Changes the speed the discoball will rotate at.
-• Default Volume: change the default volume anything over 1 or under 0 might not work.
-• Music Distance: Required distance from the player to the ball for the music to play
-• Play On Start: Enable to play on start disable to not play on start.
-• Menu Open By Default: Whether you want the menu to be open by default.
+##• Spin Speed: Changes the speed the discoball will rotate at.
+<br />
+##• Default Volume: change the default volume anything over 1 or under 0 might not work.
+<br />
+##• Music Distance: Required distance from the player to the ball for the music to play
+<br />
+##• Play On Start: Enable to play on start disable to not play on start.
+<br />
+##• Menu Open By Default: Whether you want the menu to be open by default.
+<br />
 
 # mod made by fault and husky
 mostly husky tho (love u husky)
