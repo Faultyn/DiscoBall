@@ -5,4 +5,10 @@
 - Play On Start: Enable to play on start disable to not play on start.
 - Menu Open By Default: Whether you want the menu to be open by default.
 
+
+## Bugs
+
+If you find any bugs, dm me. 
+- fault#2022
+
 Disco Ball Picture:![DiscoBall](https://user-images.githubusercontent.com/103238785/190529843-89c01013-e609-40da-b82c-57302eb5c712.png)
