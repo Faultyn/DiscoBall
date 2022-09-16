@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvSCAz2RCTD83EaH1OX3zZrbRbE0CqtJzJjaC7DzOfhapApoyRFDXWvQ0NuhG3CXVXruVPQi6LBAOnbETg7GJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cfaug\\Contacts\\Desktop\\---\\cleandesktop\\My Mods\\Gorilla Tag\\Commits\\DiscoBall\\DiscoBall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfaug\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cfaug\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
