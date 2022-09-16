@@ -1,4 +1,4 @@
-﻿// Yay me learned config
+// Yay me learned config
 using System.IO;
 using BepInEx;
 using BepInEx.Configuration;
@@ -9,7 +9,6 @@ namespace DiscoBall.Config
     {
         public static float DefaultVolume { get => _DefaultVolume.Value; set => _DefaultVolume.Value = value; }
         public static bool PlayOnStart { get => _PlayOnStart.Value; set => _PlayOnStart.Value = value; }
-
         public static bool MenuOpenByDefault { get => _MenuOpenByDefault.Value; set => _MenuOpenByDefault.Value = value; }
         public static float SpinSpeed { get => _SpinSpeed.Value; set => _SpinSpeed.Value = value; }
         public static float MusicDistance { get => _MusicDistance.Value; set => _MusicDistance.Value = value; }
