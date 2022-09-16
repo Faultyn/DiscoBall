@@ -1,5 +1,4 @@
-# DiscoBall
-
+> # Disco Ball
 > # Config
 > Spin Speed: Changes the speed the discoball will rotate at.
 > <br />
