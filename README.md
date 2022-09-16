@@ -3,8 +3,9 @@
 # mod made by fault and husky
 mostly husky tho (love u husky)
 
-# Config
 
+
+> # Config
 > Spin Speed: Changes the speed the discoball will rotate at.
 > <br />
 > Default Volume: change the default volume anything over 1 or under 0 might not work.
