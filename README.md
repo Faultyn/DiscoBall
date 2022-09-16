@@ -5,9 +5,9 @@ mostly husky tho (love u husky)
 
 # Config
 
-> Default Volume: change the default volume anything over 1 or under 0 might not work.
+> Default Volume: change the default volume anything over 1 or under 0 might not work. <
 <br />
-> Spin Speed: Changes the speed the discoball will rotate at.
+> Spin Speed: Changes the speed the discoball will rotate at. <
 <br />
 > Music Distance: Required distance from the player to the ball for the music to play
 <br />
