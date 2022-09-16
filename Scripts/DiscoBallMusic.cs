@@ -1,4 +1,4 @@
-﻿// DiscoBall Mod Made By Fault With Help From Husky#9424 (;
+// DiscoBall Mod Made By Fault With Help From Husky#9424 (;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using DiscoBall.Config;
@@ -6,6 +6,7 @@ using DiscoBall.Config;
 class DiscoBallMusic : MonoBehaviour
 {
     AudioSource Source;
+    bool ContiuneSpinning = false;
     bool menu = false;
     float Speed = Config.SpinSpeed;
     float MusicDistance = Config.MusicDistance;
@@ -25,7 +26,7 @@ class DiscoBallMusic : MonoBehaviour
     }
     void FixedUpdate()
     {
-        if (Source.isPlaying)
+        if (Source.isPlaying || ContiuneSpinning)
         transform.Rotate(0f, Speed, 0f * Time.deltaTime);
     }
     void OnGUI()
@@ -59,6 +60,7 @@ class DiscoBallMusic : MonoBehaviour
         var distance = Vector3.Distance(gameObject.transform.position, GorillaLocomotion.Player.Instance.transform.position);
         if (distance > MusicDistance)
         {
+            ContiuneSpinning = true;
             if (!Source.enabled)
                 Source.enabled = true;
 
@@ -67,6 +69,7 @@ class DiscoBallMusic : MonoBehaviour
         }
         else if (!Source.isPlaying)
         {
+            ContiuneSpinning = false;
             if (Source.enabled)
                 Source.Play();
         }
