@@ -12,6 +12,5 @@ If you find any bugs, dm me.
 - fault#2022
 
 
-<br/>
 “This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.”
 Disco Ball Picture:![DiscoBall](https://user-images.githubusercontent.com/103238785/190529843-89c01013-e609-40da-b82c-57302eb5c712.png)
